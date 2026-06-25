@@ -17,7 +17,7 @@ const projects = [
       "food ordering interface with menu browsing and real-time cart updates .",
     image: "/projects/project2.png",
     tags: ["React", "Typescript"],
-    demoUrl: "https://app.netlify.com/projects/rush1203restaurant/overview",
+    demoUrl: "https://rush1203restaurant.netlify.app/",
     githubUrl: "https://github.com/Rush1203/restaurant-website",
   },
   {
