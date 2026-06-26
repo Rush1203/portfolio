@@ -28,7 +28,7 @@ const projects = [
     image: "/projects/project3.png",
     tags: ["React", "Tailwind"],
     demoUrl: "https://github.com/Rush1203/crypto_price_dashboard",
-    githubUrl: "https://github.com/Rush1203/crypto_price_dashboard",
+    githubUrl: "https://rush1203cryptodashboard.netlify.app/",
   },
 ];
 
