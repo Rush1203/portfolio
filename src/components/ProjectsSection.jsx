@@ -8,17 +8,17 @@ const projects = [
     image: "/projects/project1.png",
     tags: ["React", "TailwindCSS","Nodejs"],
     demoUrl: "https://expense-tracker-rush1203.netlify.app/",
-    githubUrl: "https://github.com/Rush1203/expense-tracker-frontend",
+    githubUrl: "https://github.com/Rush1203/",
   },
   {
     id: 2,
-    title: "Food Cart",
+    title: "Quick Care",
     description:
-      "food ordering interface with menu browsing and real-time cart updates .",
+      "Doctor appointment and chatbot app.",
     image: "/projects/project2.png",
-    tags: ["React", "Typescript"],
-    demoUrl: "https://rush1203restaurant.netlify.app/",
-    githubUrl: "https://github.com/Rush1203/restaurant-website",
+    tags: ["React", "Nodejs","Expressjs"],
+    demoUrl: "https://rush1203quickcare.netlify.app/",
+    githubUrl: "https://github.com/Rush1203",
   },
   {
     id: 3,
@@ -27,8 +27,8 @@ const projects = [
       "Real time crypto price using coingecko.",
     image: "/projects/project3.png",
     tags: ["React", "Tailwind"],
-    demoUrl: "https://github.com/Rush1203/crypto_price_dashboard",
-    githubUrl: "https://rush1203cryptodashboard.netlify.app/",
+    demoUrl: "https://rush1203cryptodashboard.netlify.app/",
+    githubUrl: "https://github.com/Rush1203",
   },
 ];
 
